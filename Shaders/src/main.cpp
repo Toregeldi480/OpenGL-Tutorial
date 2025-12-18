@@ -8,8 +8,6 @@
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
 
-const std::string SHADER_DIR = "/home/terrydavis//Dev/C++/Graphics/LearnOpenGL/Shaders/shaders/";
-
 const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
 
@@ -42,7 +40,7 @@ int main()
     }
 
     //--------- 
-    Shader shader(SHADER_DIR + "shader.vsh", SHADER_DIR + "shader.fsh");
+    Shader shader("shader.vsh", "shader.fsh");
 
     float vertices[] = {
         // positions          // colors   

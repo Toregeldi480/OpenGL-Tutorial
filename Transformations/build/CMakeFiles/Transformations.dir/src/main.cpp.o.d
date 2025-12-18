@@ -1,5 +1,5 @@
 CMakeFiles/Transformations.dir/src/main.cpp.o: \
- /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations/src/main.cpp \
+ /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations/src/main.cpp \
  /usr/include/stdc-predef.h /usr/local/include/glad/glad.c \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -272,7 +272,7 @@ CMakeFiles/Transformations.dir/src/main.cpp.o: \
  /usr/include/glm/ext/vector_uint1.hpp \
  /usr/include/glm/ext/vector_uint1_sized.hpp /usr/include/c++/11/cstring \
  /usr/include/glm/gtc/type_ptr.inl \
- /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations/src/shader_s.h \
+ /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations/src/shader_s.h \
  /usr/local/include/glad/glad.h /usr/include/c++/11/string \
  /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h \

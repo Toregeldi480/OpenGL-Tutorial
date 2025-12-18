@@ -41,7 +41,7 @@ int main()
     }
 
     //------
-    Shader shader("shaders/shader.vsh", "shaders/shader.fsh");
+    Shader shader("shader.vsh", "shader.fsh");
 
     float vertices[] = {
         // positions       // colors 

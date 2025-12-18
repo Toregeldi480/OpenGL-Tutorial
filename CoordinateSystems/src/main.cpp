@@ -13,8 +13,6 @@
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
 
-const std::string SHADER_DIR = "/home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/CoordinateSystems/shaders/";
-
 const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
 const float FOV = 100.0f;
@@ -50,7 +48,7 @@ int main()
     glEnable(GL_DEPTH_TEST);
 
     //--------- 
-    Shader shader(SHADER_DIR + "shader.vsh", SHADER_DIR + "shader.fsh");
+    Shader shader("shader.vsh", "shader.fsh");
 
     float vertices[] = {
         -0.25f, -0.25f, -0.25f,  0.0f, 0.0f, 1.0f,

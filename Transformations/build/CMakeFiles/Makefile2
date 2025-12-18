@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations
+CMAKE_SOURCE_DIR = /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations/build
+CMAKE_BINARY_DIR = /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/Transformations.dir/clean
 CMakeFiles/Transformations.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Transformations.dir/build.make CMakeFiles/Transformations.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Transformations.dir/build.make CMakeFiles/Transformations.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations/build/CMakeFiles --progress-num=1,2 "Built target Transformations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations/build/CMakeFiles --progress-num=1,2 "Built target Transformations"
 .PHONY : CMakeFiles/Transformations.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Transformations.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Transformations.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations/build/CMakeFiles 0
 .PHONY : CMakeFiles/Transformations.dir/rule
 
 # Convenience name for target.

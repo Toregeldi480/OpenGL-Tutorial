@@ -34,8 +34,8 @@ public:
             // fShaderFile.open(fragmentPath);
             
             // Delete after testing
-            vShaderFile.open("../" + vertexPath);
-            fShaderFile.open("../" + fragmentPath);
+            vShaderFile.open("../shaders/" + vertexPath);
+            fShaderFile.open("../shaders/" + fragmentPath);
 
             std::stringstream vShaderStream, fShaderStream;
             // read file's buffer contents into streams

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Transformations/src/main.cpp" "CMakeFiles/Transformations.dir/src/main.cpp.o" "gcc" "CMakeFiles/Transformations.dir/src/main.cpp.o.d"
+  "/home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Transformations/src/main.cpp" "CMakeFiles/Transformations.dir/src/main.cpp.o" "gcc" "CMakeFiles/Transformations.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.
