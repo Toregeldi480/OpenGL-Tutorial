@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Textures.dir/src/main.cpp.o -o Textures  /usr/local/lib/libglfw3.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 

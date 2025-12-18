@@ -1,0 +1,3 @@
+/home/terrydavis/Dev/Graphics/Triangle/build/CMakeFiles/Triangle.dir
+/home/terrydavis/Dev/Graphics/Triangle/build/CMakeFiles/edit_cache.dir
+/home/terrydavis/Dev/Graphics/Triangle/build/CMakeFiles/rebuild_cache.dir
