@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Triangle.dir/src/main.cpp.o -o Triangle  /usr/local/lib/libglfw3.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 

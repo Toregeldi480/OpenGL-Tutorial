@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Transformations.dir/src/main.cpp.o -o Transformations  /usr/local/lib/libglfw3.a /usr/local/lib/libglm.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 

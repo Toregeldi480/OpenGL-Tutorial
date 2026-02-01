@@ -1,0 +1,3 @@
+/home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Textures/build/CMakeFiles/Textures.dir
+/home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Textures/build/CMakeFiles/edit_cache.dir
+/home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Textures/build/CMakeFiles/rebuild_cache.dir
