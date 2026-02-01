@@ -1,5 +1,5 @@
-CMakeFiles/CoordinateSystems.dir/src/main.cpp.o: \
- /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/CoordinateSystems/src/main.cpp \
+CMakeFiles/Camera.dir/src/main.cpp.o: \
+ /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Camera/src/main.cpp \
  /usr/include/stdc-predef.h /usr/local/include/glad/glad.c \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -335,7 +335,7 @@ CMakeFiles/CoordinateSystems.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/CoordinateSystems/src/shader_s.h \
+ /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Camera/src/shader_s.h \
  /usr/local/include/glad/glad.h /usr/include/c++/11/fstream \
  /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
