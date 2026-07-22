@@ -1,5 +1,5 @@
 CMakeFiles/BasicLighting.dir/src/main.cpp.o: \
- /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/main.cpp \
+ /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/main.cpp \
  /usr/include/stdc-predef.h /usr/local/include/glad/glad.c \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -335,11 +335,11 @@ CMakeFiles/BasicLighting.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/shader_s.h \
+ /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/shader_s.h \
  /usr/local/include/glad/glad.h /usr/include/c++/11/fstream \
  /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc /usr/include/c++/11/sstream \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/camera.h
+ /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/camera.h

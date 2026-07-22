@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/terrydavis/Desktop/Dev/C++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/main.cpp" "CMakeFiles/BasicLighting.dir/src/main.cpp.o" "gcc" "CMakeFiles/BasicLighting.dir/src/main.cpp.o.d"
+  "/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/Lighting/BasicLighting/src/main.cpp" "CMakeFiles/BasicLighting.dir/src/main.cpp.o" "gcc" "CMakeFiles/BasicLighting.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.

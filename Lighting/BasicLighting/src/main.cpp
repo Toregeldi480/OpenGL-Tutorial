@@ -134,6 +134,9 @@ int main()
     glEnableVertexAttribArray(1);
 
     int i = 0;
+    float rotation = 0;
+    float speed = 2.0f;
+    float d = 10.0f;
     
     while(!glfwWindowShouldClose(window)) 
     {
@@ -153,6 +156,10 @@ int main()
         glm::mat4 model;
 
         // light
+        rotation += speed * deltaTime; 
+        lightSource.x = glm::cos(rotation) * d;
+        lightSource.z = glm::sin(rotation) * d;
+
         lightShader.use(); 
 
         lightShader.setMat4("projection", projection);
@@ -160,7 +167,8 @@ int main()
 
         model = glm::mat4(1.0f);
         model = glm::translate(model, lightSource);
-        model = glm::scale(model, glm::vec3(1.25f));
+        model = glm::rotate(model, rotation, glm::vec3(0.0f, -1.0f, 0.0f));
+        model = glm::scale(model, glm::vec3(2.5f));
 
         lightShader.setMat4("model", model);
         glDrawArrays(GL_TRIANGLES, 0, 36); 

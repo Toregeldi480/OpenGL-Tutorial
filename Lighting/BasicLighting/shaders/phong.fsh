@@ -18,10 +18,11 @@ void main()
 
   float ambientStrength = 0.1;
   float specularStrength = 0.5;
+  int shininess = 64;
 
-  vec3 ambient = ambientStrength * lightColor * lightColor;
+  vec3 ambient = ambientStrength * lightColor;
   vec3 diffuse = max(dot(norm, lightDir), 0.0) * lightColor;
-  vec3 specular = pow(max(dot(viewDir, reflectDir), 0.0), 32) * lightColor * specularStrength;
+  vec3 specular = pow(max(dot(viewDir, reflectDir), 0.0), shininess) * lightColor * specularStrength;
 
   vec3 result = (ambient + diffuse + specular) * objectColor;
   FragColor = vec4(result, 1.0); 
