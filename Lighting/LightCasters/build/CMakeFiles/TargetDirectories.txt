@@ -1,0 +1,3 @@
+/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/Lighting/LightCasters/build/CMakeFiles/LightCasters.dir
+/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/Lighting/LightCasters/build/CMakeFiles/edit_cache.dir
+/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/Lighting/LightCasters/build/CMakeFiles/rebuild_cache.dir

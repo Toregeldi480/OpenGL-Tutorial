@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(LightingMaps LANGUAGES C CXX)
+project(MultipleLights LANGUAGES C CXX)
 cmake_policy(SET CMP0072 NEW)
 
 set(CMAKE_CXX_STANDARD 11)
