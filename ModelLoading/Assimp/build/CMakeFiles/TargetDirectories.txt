@@ -1,0 +1,3 @@
+/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/ModelLoading/Assimp/build/CMakeFiles/Assimp.dir
+/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/ModelLoading/Assimp/build/CMakeFiles/edit_cache.dir
+/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/ModelLoading/Assimp/build/CMakeFiles/rebuild_cache.dir

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Textures/src/main.cpp" "CMakeFiles/Textures.dir/src/main.cpp.o" "gcc" "CMakeFiles/Textures.dir/src/main.cpp.o.d"
+  "/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Textures/src/main.cpp" "CMakeFiles/Textures.dir/src/main.cpp.o" "gcc" "CMakeFiles/Textures.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.

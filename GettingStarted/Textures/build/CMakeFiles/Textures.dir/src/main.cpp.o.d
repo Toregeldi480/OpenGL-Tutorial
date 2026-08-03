@@ -1,5 +1,5 @@
 CMakeFiles/Textures.dir/src/main.cpp.o: \
- /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Textures/src/main.cpp \
+ /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Textures/src/main.cpp \
  /usr/include/stdc-predef.h /usr/local/include/glad/glad.c \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -162,8 +162,8 @@ CMakeFiles/Textures.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Textures/src/stb_image_wrapper.h \
- /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Textures/src/stb_image.h \
+ /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Textures/src/stb_image_wrapper.h \
+ /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Textures/src/stb_image.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \

@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Shaders
+CMAKE_SOURCE_DIR = /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Shaders
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Shaders/build
+CMAKE_BINARY_DIR = /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Shaders/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/Shaders.dir/clean
 CMakeFiles/Shaders.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shaders.dir/build.make CMakeFiles/Shaders.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Shaders.dir/build.make CMakeFiles/Shaders.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Shaders/build/CMakeFiles --progress-num=1,2 "Built target Shaders"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Shaders/build/CMakeFiles --progress-num=1,2 "Built target Shaders"
 .PHONY : CMakeFiles/Shaders.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Shaders.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Shaders/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Shaders/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Shaders.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Dev/C++/Graphics/LearnOpenGL/Shaders/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/terrydavis/Desktop/Dev/CC++/Graphics/LearnOpenGL/GettingStarted/Shaders/build/CMakeFiles 0
 .PHONY : CMakeFiles/Shaders.dir/rule
 
 # Convenience name for target.
